@@ -1,0 +1,2 @@
+# JTKJ24_morsetin_ryhmaprojekti
+Mikrokontrolleria liikuttamalla lähetetään morsekoodia UART:n välityksellä käyttämällä gyroskooppianturia.
