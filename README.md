@@ -12,5 +12,5 @@ Mikrokontrolleria liikuttamalla lähetetään morsekoodia UART:n välityksellä 
 # Tilakone
 <img width="387" height="274" alt="Näyttökuva 2025-11-02 162903" src="https://github.com/user-attachments/assets/00efa44f-f4b1-4a0a-a29c-fb5ea080b0c0" />
 ---
-### Huom.
+# Huom.
 Sisältää vain päätiedoston main.c
