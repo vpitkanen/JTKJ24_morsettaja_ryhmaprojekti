@@ -1,5 +1,5 @@
 # JTKJ24_morsetin_ryhmaprojekti
-Mikrokontrolleria liikuttamalla lähetetään morsekoodia UART:n välityksellä käyttäen gyroskooppianturia ja RTOS-käyttöjärjestelmää.
+Mikrokontrolleria liikuttamalla lähetetään morsekoodia UART:n välityksellä käyttäen gyroskooppianturia ja kiihtyvyysanturia hyödyntäen RTOS-käyttöjärjestelmää.
 ---
 Repository sisältää vain päätiedoston main.c
 ---
